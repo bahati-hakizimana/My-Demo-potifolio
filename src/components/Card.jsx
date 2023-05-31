@@ -1,10 +1,10 @@
-import { Children } from 'react'
+
 import './card.css'
 
-const Card = ({Children, className, onClick}) => {
+const Card = ({children, className, onClick}) => {
   return (
-    <article className={'card ${className}'} onClick={onClick} >
-        {Children}  
+    <article className={` card ${className} ` } onClick={onClick} >
+        {children}  
     </article>
   )
 }
