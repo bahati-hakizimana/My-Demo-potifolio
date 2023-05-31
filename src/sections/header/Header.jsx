@@ -12,7 +12,7 @@ const Header = () => {
           <img src={HeaderImage} alt="Header portait" />
           
         </div>
-        <h3>Hakizimana Bahati</h3>
+        <h3>H.Bahati Jackson</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br />
             Soluta est laborum quaerat quisquam laudantium nesciunt eaque, <br />
